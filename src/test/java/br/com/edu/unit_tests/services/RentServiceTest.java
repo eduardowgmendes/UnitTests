@@ -3,21 +3,22 @@ package br.com.edu.unit_tests.services;
 
 import static br.com.edu.unit_tests.builders.UserBuilder.oneUser;
 import static br.com.edu.unit_tests.matchers.MineMatchers.*;
-import static br.com.edu.unit_tests.utils.DateUtils.areSame;
-import static br.com.edu.unit_tests.utils.DateUtils.todayPlus;
+import static br.com.edu.unit_tests.rent.utils.DateUtils.areSame;
+import static br.com.edu.unit_tests.rent.utils.DateUtils.todayPlus;
 import static org.hamcrest.CoreMatchers.equalTo;
 import static org.hamcrest.CoreMatchers.is;
 import static org.junit.Assert.assertThat;
 
 import java.util.*;
 
+import br.com.edu.unit_tests.rent.services.RentService;
 import org.junit.*;
 import org.junit.rules.ErrorCollector;
 import org.junit.rules.ExpectedException;
 
-import br.com.edu.unit_tests.entity.Movie;
-import br.com.edu.unit_tests.entity.Rent;
-import br.com.edu.unit_tests.entity.User;
+import br.com.edu.unit_tests.rent.entity.Movie;
+import br.com.edu.unit_tests.rent.entity.Rent;
+import br.com.edu.unit_tests.rent.entity.User;
 
 public class RentServiceTest {
 

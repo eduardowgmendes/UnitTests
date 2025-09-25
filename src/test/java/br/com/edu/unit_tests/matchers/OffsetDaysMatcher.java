@@ -1,6 +1,6 @@
 package br.com.edu.unit_tests.matchers;
 
-import br.com.edu.unit_tests.utils.DateUtils;
+import br.com.edu.unit_tests.rent.utils.DateUtils;
 import org.hamcrest.Description;
 import org.hamcrest.TypeSafeMatcher;
 

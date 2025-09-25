@@ -4,7 +4,7 @@ import java.lang.Integer;
 import java.lang.Double;
 import java.lang.String;
 
-import br.com.edu.unit_tests.entity.Movie;
+import br.com.edu.unit_tests.rent.entity.Movie;
 
 public class MovieBuilder {
 

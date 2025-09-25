@@ -1,12 +1,12 @@
-package br.com.edu.unit_tests.services;
+package br.com.edu.unit_tests.rent.services;
 
-import static br.com.edu.unit_tests.utils.DateUtils.addDaysTo;
+import static br.com.edu.unit_tests.rent.utils.DateUtils.addDaysTo;
 
 import java.util.Date;
 
-import br.com.edu.unit_tests.entity.Movie;
-import br.com.edu.unit_tests.entity.Rent;
-import br.com.edu.unit_tests.entity.User;
+import br.com.edu.unit_tests.rent.entity.Movie;
+import br.com.edu.unit_tests.rent.entity.Rent;
+import br.com.edu.unit_tests.rent.entity.User;
 
 public class RentService {
 	

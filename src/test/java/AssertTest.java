@@ -1,7 +1,7 @@
 import org.junit.Assert;
 import org.junit.Test;
 
-import br.com.edu.unit_tests.entity.User;
+import br.com.edu.unit_tests.rent.entity.User;
 
 public class AssertTest {
 

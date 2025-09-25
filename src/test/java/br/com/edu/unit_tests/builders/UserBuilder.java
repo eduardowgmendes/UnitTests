@@ -2,7 +2,7 @@ package br.com.edu.unit_tests.builders;
 
 import java.lang.String;
 
-import br.com.edu.unit_tests.entity.User;
+import br.com.edu.unit_tests.rent.entity.User;
 
 
 public class UserBuilder {

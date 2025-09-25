@@ -1,4 +1,4 @@
-package br.com.edu.unit_tests.entity;
+package br.com.edu.unit_tests.rent.entity;
 
 import java.util.Date;
 import java.util.Objects;

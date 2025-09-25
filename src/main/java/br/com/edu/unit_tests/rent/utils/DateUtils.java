@@ -1,4 +1,4 @@
-package br.com.edu.unit_tests.utils;
+package br.com.edu.unit_tests.rent.utils;
 
 import static java.util.Calendar.DAY_OF_MONTH;
 import static java.util.Calendar.DAY_OF_WEEK;

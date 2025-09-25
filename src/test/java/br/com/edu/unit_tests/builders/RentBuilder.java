@@ -1,12 +1,12 @@
 package br.com.edu.unit_tests.builders;
 
-import br.com.edu.unit_tests.entity.User;
-import br.com.edu.unit_tests.entity.Movie;
+import br.com.edu.unit_tests.rent.entity.User;
+import br.com.edu.unit_tests.rent.entity.Movie;
 
 import java.lang.Double;
 import java.util.Date;
 
-import br.com.edu.unit_tests.entity.Rent;
+import br.com.edu.unit_tests.rent.entity.Rent;
 
 
 public class RentBuilder {
